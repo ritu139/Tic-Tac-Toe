@@ -1,2 +1,0 @@
-bro = input("Enter your name: ",)
-print ("Hello", bro)
